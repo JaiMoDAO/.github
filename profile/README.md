@@ -1,7 +1,5 @@
 <div align="center">
 
-# JaiMoDAO
-
 [![Website](https://img.shields.io/badge/Website-jaimo.eth.limo-green?style=flat-square&logo=googlechrome)](https://jaimo.eth.limo)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40jaimo.eth.limo-green?style=flat-square&logo=bluesky)](https://bsky.app/profile/jaimo.eth.limo)
 [![X (Twitter)](https://img.shields.io/badge/X-%40jaimoeth-green?style=flat-square&logo=X)](https://x.com/jaimoeth)
