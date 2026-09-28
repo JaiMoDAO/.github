@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# JaiMoDAO
+# JaiMo Labs
 
 </div>
 
