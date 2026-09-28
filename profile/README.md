@@ -1,8 +1,6 @@
+[![ENS](https://img.shields.io/badge/JAIMO.ETH-Verified-green?style=flat-square&logo=ENS)](https://app.ens.domains/jaimo.eth)
 
 <div align="center">
-
-[![ENS](https://img.shields.io/badge/JAIMO.ETH-Verified-green?style=flat-square&logo=ENS)](https://app.ens.domains/jaimo.eth)
-[![GitHub](https://img.shields.io/badge/JaiMoDAO-DAO-green?style=flat-square&logo=github)](https://github.com/JaiMoDAO)
 
 # JaiMoDAO
 
